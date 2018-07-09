@@ -42,6 +42,6 @@ body {
     font-size: 41px;
 }
 
-.jumbotron-fluid c {
-  color: #dd9b4d
+div.container {
+    font-size: 17px;
 }
